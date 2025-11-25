@@ -4,3 +4,5 @@
 
 - Focus on clarity over quantity in written thoughts.
 
+- Use simple examples to explain reasoning.
+
