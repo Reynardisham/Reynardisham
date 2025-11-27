@@ -8,3 +8,5 @@
 
 - Keep drafts flexible and easy to reshape as needed.
 
+- Begin with a clear question before exploring details.
+
