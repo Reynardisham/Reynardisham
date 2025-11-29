@@ -10,3 +10,5 @@
 
 - Begin with a clear question before exploring details.
 
+- Use small drafts to test how ideas connect.
+
