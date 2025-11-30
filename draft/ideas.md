@@ -12,3 +12,5 @@
 
 - Use small drafts to test how ideas connect.
 
+- Avoid polishing too early to maintain creativity.
+
