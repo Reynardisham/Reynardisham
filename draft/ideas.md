@@ -14,3 +14,5 @@
 
 - Avoid polishing too early to maintain creativity.
 
+- Track what assumptions were made during drafting.
+
