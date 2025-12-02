@@ -16,3 +16,5 @@
 
 - Track what assumptions were made during drafting.
 
+- Revisit earlier drafts to find patterns and insights.
+
