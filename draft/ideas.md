@@ -18,3 +18,5 @@
 
 - Revisit earlier drafts to find patterns and insights.
 
+- Use simple examples to explain reasoning.
+
