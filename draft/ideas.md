@@ -20,3 +20,5 @@
 
 - Use simple examples to explain reasoning.
 
+- Keep drafts flexible and easy to reshape as needed.
+
