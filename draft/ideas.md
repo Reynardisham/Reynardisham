@@ -22,3 +22,8 @@
 
 - Keep drafts flexible and easy to reshape as needed.
 
+
+Consider implementing robust input validation for all user-submitted data to prevent potential security vulnerabilities.
+
+Explore integrating a Content Delivery Network (CDN) to improve asset loading times and overall website performance, especially for users in different geographic locations.
+
