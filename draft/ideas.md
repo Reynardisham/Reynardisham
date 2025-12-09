@@ -27,3 +27,7 @@ Consider implementing robust input validation for all user-submitted data to pre
 
 Explore integrating a Content Delivery Network (CDN) to improve asset loading times and overall website performance, especially for users in different geographic locations.
 
+
+A comprehensive "About" section explaining the project's purpose and goals.
+Consider adding a "Contributing Guide" to encourage community involvement.
+
