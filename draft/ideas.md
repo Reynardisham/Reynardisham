@@ -40,3 +40,7 @@ Consider adding a `CHANGELOG.md` file for better version tracking.
 
 Explore integrating a CI/CD pipeline for automated testing and deployment.
 
+
+*   Consider adding a "Hall of Fame" or "Achievements" section to showcase significant milestones or contributions.
+*   Explore integrating a contributor guideline document to foster community engagement and ensure consistent development practices.
+
