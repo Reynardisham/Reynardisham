@@ -61,3 +61,8 @@ Explore a feature for collaborative annotation of documents, allowing multiple u
 *   **Focus on performance optimizations:** Explore techniques like WebAssembly for computationally intensive tasks, efficient data serialization, and aggressive caching strategies.
 *   **Consider a plugin architecture:** Allow for extensibility and customization by defining clear APIs for adding new features or integrating with external services.
 
+
+Consider adding a "Roadmap" file to outline future development priorities and potential features.
+
+Explore integrating a lightweight CI/CD pipeline for automated testing and deployment.
+
