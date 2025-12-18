@@ -66,3 +66,7 @@ Consider adding a "Roadmap" file to outline future development priorities and po
 
 Explore integrating a lightweight CI/CD pipeline for automated testing and deployment.
 
+
+Consider integrating a more robust error handling and logging system to track down potential issues within the application.
+Explore opportunities for performance optimization, particularly in data-intensive operations or frequently accessed modules.
+
