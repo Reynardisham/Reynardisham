@@ -70,3 +70,8 @@ Explore integrating a lightweight CI/CD pipeline for automated testing and deplo
 Consider integrating a more robust error handling and logging system to track down potential issues within the application.
 Explore opportunities for performance optimization, particularly in data-intensive operations or frequently accessed modules.
 
+
+Consider adding a "Good First Issues" label to encourage new contributors.
+
+Explore a GitHub Actions workflow to automate testing and deployment upon merging to the `main` branch.
+
