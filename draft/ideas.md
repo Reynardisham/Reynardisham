@@ -75,3 +75,7 @@ Consider adding a "Good First Issues" label to encourage new contributors.
 
 Explore a GitHub Actions workflow to automate testing and deployment upon merging to the `main` branch.
 
+
+*   Consider a "Bestiary" section for unique magical creatures and flora found in the region.
+*   Explore the integration of local folklore and legends into the world-building.
+
