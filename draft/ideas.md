@@ -79,3 +79,7 @@ Explore a GitHub Actions workflow to automate testing and deployment upon mergin
 *   Consider a "Bestiary" section for unique magical creatures and flora found in the region.
 *   Explore the integration of local folklore and legends into the world-building.
 
+
+* **Consider adding a CONTRIBUTING.md file:** Outline contribution guidelines, code of conduct, and how to submit pull requests.
+* **Explore GitHub Actions for CI/CD:** Automate testing, building, and deployment workflows to ensure code quality and streamline releases.
+
