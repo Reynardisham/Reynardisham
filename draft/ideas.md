@@ -92,3 +92,7 @@ Explore integration possibilities with common data processing or analysis librar
 *   Consider adding a CI/CD pipeline for automated testing and deployment.
 *   Explore integrating a dependency management tool like Poetry for streamlined package handling.
 
+
+*   Consider adding a `LICENSE` file.
+*   Explore using GitHub Actions for automated testing and deployment.
+
