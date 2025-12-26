@@ -96,3 +96,7 @@ Explore integration possibilities with common data processing or analysis librar
 *   Consider adding a `LICENSE` file.
 *   Explore using GitHub Actions for automated testing and deployment.
 
+
+*   Consider adding a "Contributing" guide to outline how others can contribute to the project.
+*   Explore integrating CI/CD pipelines for automated testing and deployment.
+
