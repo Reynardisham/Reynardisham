@@ -104,3 +104,7 @@ Explore integration possibilities with common data processing or analysis librar
 - Consider implementing a system for tracking and managing the King's treasury.
 - Explore options for a more robust diplomatic system, perhaps with different factions or guilds.
 
+
+- Consider a section for community-contributed lore or character backstories.
+- Explore integrating user-generated quests or challenges.
+
