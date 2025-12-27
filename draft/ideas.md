@@ -100,3 +100,7 @@ Explore integration possibilities with common data processing or analysis librar
 *   Consider adding a "Contributing" guide to outline how others can contribute to the project.
 *   Explore integrating CI/CD pipelines for automated testing and deployment.
 
+
+- Consider implementing a system for tracking and managing the King's treasury.
+- Explore options for a more robust diplomatic system, perhaps with different factions or guilds.
+
