@@ -112,3 +112,8 @@ Explore integration possibilities with common data processing or analysis librar
 Consider adding a "Community" or "Contribution" section explaining how others can get involved.
 Maybe include a quick start guide or example usage directly in the README for immediate user benefit.
 
+
+Consider a separate branch for experimental feature development to keep the main branch stable.
+
+Add a README.md file with clear instructions on how to set up and run the project.
+
