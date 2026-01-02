@@ -117,3 +117,7 @@ Consider a separate branch for experimental feature development to keep the main
 
 Add a README.md file with clear instructions on how to set up and run the project.
 
+
+Consider adding a README.md explaining the project's purpose and setup.
+Explore integrating a small, illustrative dataset for testing and demonstration.
+
