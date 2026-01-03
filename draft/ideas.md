@@ -125,3 +125,7 @@ Explore integrating a small, illustrative dataset for testing and demonstration.
 Consider adding a README.md with a brief description, installation instructions, and examples.
 Explore potential uses for the repository, such as data analysis, machine learning, or scientific simulation.
 
+
+Consider adding a `CONTRIBUTING.md` file with guidelines for submitting bug reports, feature requests, and pull requests.
+Explore integrating a continuous integration (CI) pipeline (e.g., GitHub Actions, GitLab CI) for automated testing and deployment.
+
