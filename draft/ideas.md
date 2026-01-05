@@ -129,3 +129,8 @@ Explore potential uses for the repository, such as data analysis, machine learni
 Consider adding a `CONTRIBUTING.md` file with guidelines for submitting bug reports, feature requests, and pull requests.
 Explore integrating a continuous integration (CI) pipeline (e.g., GitHub Actions, GitLab CI) for automated testing and deployment.
 
+
+Consider adding a roadmap outlining future development goals and feature priorities.
+
+Explore a CI/CD pipeline for automated testing and deployment.
+
