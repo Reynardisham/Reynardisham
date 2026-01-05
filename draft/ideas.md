@@ -134,3 +134,7 @@ Consider adding a roadmap outlining future development goals and feature priorit
 
 Explore a CI/CD pipeline for automated testing and deployment.
 
+
+Consider integrating a README.md file detailing the project's purpose, setup instructions, and contribution guidelines.
+Explore the possibility of adding unit tests to ensure code stability and identify regressions.
+
