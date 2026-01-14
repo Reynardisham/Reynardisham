@@ -165,3 +165,7 @@ Consider adding a "Known Issues" section to the README.
 
 Integrate a simple CI/CD pipeline for automated testing and deployment.
 
+
+*   Consider a submodule or separate repository for `reynardisham-docs` to manage extensive documentation, tutorials, and user guides.
+*   Explore integrating a CI/CD pipeline that includes automated testing, code quality checks, and potentially a staging deployment for pre-release validation.
+
