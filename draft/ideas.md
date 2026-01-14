@@ -160,3 +160,8 @@ Explore potential integrations with other libraries or frameworks that might com
 * **Local lore integration:** Incorporate local folktales, historical events, or legends specific to the Reynardisham area to add depth and authenticity.
 * **Interactive map/timeline:** Develop a visual representation of the lore, allowing users to explore locations and events chronologically.
 
+
+Consider adding a "Known Issues" section to the README.
+
+Integrate a simple CI/CD pipeline for automated testing and deployment.
+
