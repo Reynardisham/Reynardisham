@@ -174,3 +174,7 @@ Integrate a simple CI/CD pipeline for automated testing and deployment.
 
 * **Intergenerational Wisdom/Secrets:** Explore themes of knowledge passed down through generations within Reynardisham, perhaps ancient lore, forgotten skills, or even dangerous secrets that shape its present.
 
+
+Consider implementing a user authentication system.
+Explore options for deploying the application to a cloud platform.
+
