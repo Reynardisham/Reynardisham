@@ -178,3 +178,7 @@ Integrate a simple CI/CD pipeline for automated testing and deployment.
 Consider implementing a user authentication system.
 Explore options for deploying the application to a cloud platform.
 
+
+Consider adding a "Getting Started" guide with clear installation and basic usage instructions.
+Explore options for user contributions, such as a "Contributing.md" file outlining guidelines and a code of conduct.
+
