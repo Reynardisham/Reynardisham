@@ -182,3 +182,8 @@ Explore options for deploying the application to a cloud platform.
 Consider adding a "Getting Started" guide with clear installation and basic usage instructions.
 Explore options for user contributions, such as a "Contributing.md" file outlining guidelines and a code of conduct.
 
+
+Consider adding a "How to Contribute" section detailing community guidelines and preferred contribution methods.
+
+Explore the potential for a public roadmap or issue tracker to showcase planned features and bug fixes.
+
