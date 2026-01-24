@@ -191,3 +191,7 @@ Explore the potential for a public roadmap or issue tracker to showcase planned 
 *   Consider a "history" or "lore" section in the README to flesh out the fictional world of Reynardisham.
 *   Implement a small, self-contained example project or demo within the repository to showcase core functionalities.
 
+
+A Jekyll-based static site generator for personal websites and portfolios.
+Consider adding theme customization options or a plugin system for extended functionality.
+
