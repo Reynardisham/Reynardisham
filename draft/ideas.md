@@ -203,3 +203,7 @@ Explore using a monorepo structure if the project grows to encompass multiple re
 Consider adding a CI/CD pipeline for automated testing and deployment.
 Explore integrating a dependency management tool like Poetry for streamlined package handling.
 
+
+- Consider adding a `CONTRIBUTING.md` file to guide potential contributors.
+- Explore integrating a CI/CD pipeline for automated testing and deployment.
+
