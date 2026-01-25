@@ -195,3 +195,7 @@ Explore the potential for a public roadmap or issue tracker to showcase planned 
 A Jekyll-based static site generator for personal websites and portfolios.
 Consider adding theme customization options or a plugin system for extended functionality.
 
+
+Consider adding a CONTRIBUTING.md file.
+Explore using a monorepo structure if the project grows to encompass multiple related components or services.
+
